@@ -11,3 +11,7 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+- [x] Finish Step 4
+- [x] Create a task list
+- [ ] Not be intimidated
